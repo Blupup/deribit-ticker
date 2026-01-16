@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24669622/README.md)[Uploadin# Deribit Price Tracker
-
 API для отслеживания цен BTC и ETH с биржи Deribit с автоматическим сбором данных каждую минуту.
 
 ## Возможности
